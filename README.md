@@ -49,14 +49,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-```text
-C++          ██████████████░░░░░░░░░░   55.30 %
-JavaScript   ██████░░░░░░░░░░░░░░░░░░   22.10 %
-Python       ███░░░░░░░░░░░░░░░░░░░░░   10.40 %
-TypeScript   ██░░░░░░░░░░░░░░░░░░░░░░    7.20 %
-SQL          █░░░░░░░░░░░░░░░░░░░░░░░    3.10 %
-Other        ░░░░░░░░░░░░░░░░░░░░░░░░    1.90 %
+
+```txt
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>
