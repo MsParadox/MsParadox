@@ -23,3 +23,44 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MsParadox/MsParadox/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MsParadox/MsParadox/output/github-contribution-grid-snake.svg" />
 </picture>
+
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" /> &nbsp;**` 3D CONTRIBUTION CITY`**
+
+<div align="center">
+
+[![3D Contrib](https://raw.githubusercontent.com/MsParadox/MsParadox/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/MsParadox)
+
+
+
+</div>
+<br/>
+<div align="center">
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
+<br/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30" /> &nbsp;**`  CODING CLOCK — WakaTime`**
+
+<div align="center">
+
+
+<!--START_SECTION:waka-->
+```text
+C++          ██████████████░░░░░░░░░░   55.30 %
+JavaScript   ██████░░░░░░░░░░░░░░░░░░   22.10 %
+Python       ███░░░░░░░░░░░░░░░░░░░░░   10.40 %
+TypeScript   ██░░░░░░░░░░░░░░░░░░░░░░    7.20 %
+SQL          █░░░░░░░░░░░░░░░░░░░░░░░    3.10 %
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░    1.90 %
+```
+<!--END_SECTION:waka-->
+
+<br/>
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MsParadox&theme=radical&bg_color=000000&title_color=00e5cc&text_color=bdd0e8&border_color=7c3fff55&layout=compact&range=last_7_days&custom_title=WakaTime%20—%20Last%207%20Days)](https://wakatime.com/@MsParadox)
+
+</div>
