@@ -51,7 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      59 mins               ███████████▓░░░░░░░░░░░░░   46.60 %
+HTML          21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+Other         11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JSON          10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Text          7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 ```
 
 <!--END_SECTION:waka-->
