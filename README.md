@@ -203,7 +203,96 @@ AWS / Vercel / Linux ██████████████░░░░░�
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> &nbsp;**`Projects`**
 
-<!-- ─── PROJECT 01 ─── -->
+<!-- ─── PROJECT 01 · FLAGSHIP ─── -->
+
+<table>
+<tr>
+<td>
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+║  [001]  CODESYNC   ⭐ FLAGSHIP                          STATUS: ● LIVE    ║
+ ║  Real-Time Collaborative Code Editor · 7-Language Sandbox · Interviews   ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+**What it solves:** A production collaborative coding platform — many people edit one file in real time with conflict-free **Yjs CRDT** sync, **run code in 7 languages** in a hardened sandbox, practice DSA against a hidden-test judge, and run timed technical interviews. Shipped **live — no credit card**.
+
+| 📐 Feature | 💬 Detail |
+|:---|:---|
+| 🧠 Conflict-free sync | Server-authoritative **Yjs CRDT** — live cursors, selections & presence |
+| ⚡ Dual execution engine | **Docker sandbox _or_ Judge0** — switchable with one env var (`EXEC_ENGINE`) |
+| 🎯 Interview + practice | Hidden-test judge · countdown · leaderboard · streaks · session replay |
+| 🚀 Deployment | Vercel · Render · MongoDB Atlas · Upstash · Judge0 |
+
+**Stack:**
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://socket.io)
+[![Yjs](https://img.shields.io/badge/Yjs_CRDT-7C3AED?style=flat-square)](https://yjs.dev)
+[![Monaco](https://img.shields.io/badge/Monaco-0066B8?style=flat-square&logo=visualstudiocode&logoColor=white)](https://microsoft.github.io/monaco-editor/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+
+[![GitHub](https://img.shields.io/badge/⬡_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsParadox/CodeSync)
+[![Live](https://img.shields.io/badge/◉_Live_Demo-00e5cc?style=for-the-badge&labelColor=000000)](https://code-sync-chi-lemon.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+<br/>
+
+<!-- ─── PROJECT 02 · MPLOYCHEK ─── -->
+
+<table>
+<tr>
+<td>
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+║  [002]  MPLOYCHEK   ◈ ENTERPRISE                        STATUS: ● LIVE    ║
+ ║  Background Verification SaaS · RBAC · JWT · WebSocket · 244 Tests       ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+**What it solves:** A production-grade HR background verification platform managing the full candidate screening lifecycle — criminal checks, employment history, education verification, address validation — with a state-machine workflow, 4-role RBAC, real-time WebSocket notifications, and a complete immutable audit trail.
+
+| 📐 Feature | 💬 Detail |
+|:---|:---|
+| 🔐 Security | JWT rotation · bcrypt · Helmet · rate limiting · SHA-256 hashed refresh tokens |
+| 🛡️ Authorization | 4-role RBAC (Admin / Manager / Verifier / General User) · 20+ permission constants |
+| ⚙️ Workflow | State machine — `Pending → In Review → Verification Running → Approved/Rejected` · invalid transitions blocked |
+| 📡 Real-time | Native WebSocket server · JWT-authenticated on handshake · heartbeat + auto-reconnect |
+| 🧪 Tests | **244 tests across 18 suites** · repository pattern · Zod schemas · workflow state machine |
+| 🚀 Deployment | Vercel · Render · Neon PostgreSQL · Cloudinary · Brevo · GitHub Actions |
+
+**Stack:**
+
+[![Angular](https://img.shields.io/badge/Angular_15-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-555555?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://prisma.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+
+[![GitHub](https://img.shields.io/badge/⬡_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsParadox/MPloyChek)
+[![Live](https://img.shields.io/badge/◉_Live_Demo-1565C0?style=for-the-badge&labelColor=050D1F)](https://m-ploy-chek.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+<br/>
+
+<!-- ─── PROJECT 03 ─── -->
 
 <table>
 <tr>
@@ -211,7 +300,7 @@ AWS / Vercel / Linux ██████████████░░░░░�
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  [001]  TASK MANAGER                                    STATUS: ● LIVE   ║
+║  [003]  TASK MANAGER                                    STATUS: ● LIVE   ║
 ║  Full-Stack MERN Team Collaboration & Task Management App                ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -247,7 +336,7 @@ AWS / Vercel / Linux ██████████████░░░░░�
 <br/>
 
 
-<!-- ─── PROJECTS 02 + 03 ─── -->
+<!-- ─── PROJECTS 04 + 05 ─── -->
 
 <table>
 <tr>
@@ -255,7 +344,7 @@ AWS / Vercel / Linux ██████████████░░░░░�
 
 ```
 ╔═════════════════════════════════════════╗
-║  [002]  WEATHER FORECASTING APP  ● LIVE ║
+║  [004]  WEATHER FORECASTING APP  ● LIVE ║
 ╚═════════════════════════════════════════╝
 ```
 
@@ -277,7 +366,7 @@ Real-time weather data for any city on Earth using OpenWeatherMap API. Displays 
 
 ```
 ╔═══════════════════════════════════════╗
-║  [003]  PORTFOLIO  ● LIVE             ║
+║  [005]  PORTFOLIO  ● LIVE             ║
 ║  mohit-portfolio-bjd4.onrender.com    ║
 ╚═══════════════════════════════════════╝
 ```
@@ -313,10 +402,12 @@ Full-stack futuristic portfolio: particle canvas hero, aurora backgrounds, custo
 
 | # | Project / Area | Category | Link |
 |:-:|---|---|---|
-| `01` | Task Manager | Full-stack MERN | [Live](https://task-management-org.vercel.app/) |
-| `02` | Weather Forecasting App | API + frontend | [Live](https://msparadox.github.io/Weather-Forecasting-App/) |
-| `03` | Portfolio Website | Full-stack profile system | [Live](https://mohit-portfolio-bjd4.onrender.com) |
-| `04` | CP / DSA Work | Algorithms | [Repo Link](https://github.com/MsParadox/DSA-CP) |
+| `01` | **CodeSync** ⭐ | Real-time collab editor · 7-lang sandbox | [Live](https://code-sync-chi-lemon.vercel.app) · [Repo](https://github.com/MsParadox/CodeSync) |
+| `02` | **MPloyChek** ◈ | Enterprise HR verification SaaS · Angular 15 · Node.js · Prisma | [Live](https://m-ploy-chek.vercel.app) · [Repo](https://github.com/MsParadox/MPloyChek) |
+| `03` | Task Manager | Full-stack MERN | [Live](https://task-management-org.vercel.app/) |
+| `04` | Weather Forecasting App | API + frontend | [Live](https://msparadox.github.io/Weather-Forecasting-App/) |
+| `05` | Portfolio Website | Full-stack profile system | [Live](https://mohit-portfolio-bjd4.onrender.com) |
+| `06` | CP / DSA Work | Algorithms | [Repo Link](https://github.com/MsParadox/DSA-CP) |
 
 </details>
 
